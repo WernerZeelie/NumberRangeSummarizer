@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="numberrangesummarizer.NumberRangeSummarizerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-11-29T20:50:07" hostname="WERNER-PC" time="0.036">
-  <properties/>
-  <testcase name="Test collect() method" classname="numberrangesummarizer.NumberRangeSummarizerTest" time="0.019"/>
-  <testcase name="Test summarizeCollection() method" classname="numberrangesummarizer.NumberRangeSummarizerTest" time="0.017"/>
-  <system-out><![CDATA[1, 3, 6-8, 12-15, 21-24, 31
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
